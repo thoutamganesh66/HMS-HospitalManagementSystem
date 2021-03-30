@@ -1,5 +1,5 @@
 # HMS-HospitalManagementSystem
-Health Management System-C Project
+Health Management System-C Project\n
 Hello !
 This is the model of Heallth Management System written in C.
 It's functionalities are:
